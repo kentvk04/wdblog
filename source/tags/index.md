@@ -1,8 +1,5 @@
 ---
 title: 标签
-date: 2024-02-29 17:16:32
-categories: 
-- vue
-- php
-- linux
+date: 2017-05-27 13:47:40
+type: "tags"
 ---
