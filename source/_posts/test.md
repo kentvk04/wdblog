@@ -1,5 +1,5 @@
 ---
-title: this is test
+title: ci test
 ---
 
-this is test
+this is ci test
