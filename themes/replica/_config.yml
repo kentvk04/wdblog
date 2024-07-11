@@ -18,11 +18,21 @@ archive_dir: archives
 category_dir: categories
 rss_dir: atom.xml
 
+#marked setting for markdown
+marked:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
+
 # widget
 ga: # google analytics tracking code UA-XXXXXXX-X
 baidutongji: # baidutongji tracking code
 duoshuo: # duoshuo username
-gsc: # google custom search code
+gsc: google # google custom search code
 
 # flagcounter
 flagcounter_href: # https://info.flagcounter.com/xxxx
