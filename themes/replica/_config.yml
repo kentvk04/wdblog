@@ -13,6 +13,9 @@ menu:
  tags: true
  categories: true
 
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
 rss_dir: atom.xml
 
 # widget
