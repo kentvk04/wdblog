@@ -9,27 +9,6 @@ categories:
 keywords: 北京,生活
 description: description
 ---
-
-[视频链接](https://link.juejin.cn/?target=https%3A%2F%2Fyoutu.be%2FplDC3QP9qIU "https://youtu.be/plDC3QP9qIU")
-
-今天来聊一下我在北京的这17年，北京好在哪，以及为什么要选择离开， 以及下一步的打算 想 提前声明，我下面会说一些北京和英国的优点，我个人只在英国生活的一个月，我体验到的优点肯定非常片面，也欢迎评论区讨论
-
-离开北京的当天我还兴致勃勃的拿着gopro 准备拍个视频，但是下了楼看到北京天，突然很感慨，没了拍视频的兴致，拍几个照留个纪念吧
-
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c0dcfaa54a5442a1b162f44ca3355180~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=1648&h=868&s=2079216&e=png&b=7e8989)
-
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f8e6da57670a47e4b0ad5a86fcb9e023~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=3520&h=1980&s=8164582&e=png&b=798c8f)
-
-![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/81949de11d7a4d03a580a440a0f10dc7~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=4032&h=3024&s=13113520&e=png&b=b4cfdd)
-
-![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/83aaa1c8295340d6acdcd1996a3301c8~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=1280&h=1706&s=1066227&e=png&b=8f9397)
-
-![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ae08c34180854e23b711866dd1020136~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=2376&h=1104&s=1090538&e=png&b=8e8675)
-
-![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2289d637ebe24523b731299616ec5ec8~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=1707&h=1280&s=2647419&e=png&b=b5c6da)
-
-![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9a5dab68008e4ccab30fb94900368422~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=2048&h=1536&s=4092301&e=png&b=afbfd1)
-
 北京好在哪
 -----
 
